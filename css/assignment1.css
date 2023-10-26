@@ -1,0 +1,21 @@
+.assignment1 {
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.content{
+    margin-top: 2rem;
+}
+
+#button-click {
+    margin-top: 3rem;
+}
+
+.part2 {
+    margin-top: 2rem;
+}
+
+ul {
+    list-style-type: none;
+}
